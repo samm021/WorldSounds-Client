@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e1a332f.chunk.css",
+    "main.js": "/static/js/main.a1de3dbe.chunk.js",
+    "main.js.map": "/static/js/main.a1de3dbe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da46bf52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da46bf52.js.map",
+    "static/css/2.6b0fa1c0.chunk.css": "/static/css/2.6b0fa1c0.chunk.css",
+    "static/js/2.99d3eb1b.chunk.js": "/static/js/2.99d3eb1b.chunk.js",
+    "static/js/2.99d3eb1b.chunk.js.map": "/static/js/2.99d3eb1b.chunk.js.map",
+    "static/js/3.4795ad96.chunk.js": "/static/js/3.4795ad96.chunk.js",
+    "static/js/3.4795ad96.chunk.js.map": "/static/js/3.4795ad96.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6b0fa1c0.chunk.css.map": "/static/css/2.6b0fa1c0.chunk.css.map",
+    "static/css/main.2e1a332f.chunk.css.map": "/static/css/main.2e1a332f.chunk.css.map",
+    "static/js/2.99d3eb1b.chunk.js.LICENSE.txt": "/static/js/2.99d3eb1b.chunk.js.LICENSE.txt",
+    "static/media/WS_logo.0ba31b3d.png": "/static/media/WS_logo.0ba31b3d.png",
+    "static/media/spotify.5ee76bb0.svg": "/static/media/spotify.5ee76bb0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da46bf52.js",
+    "static/css/2.6b0fa1c0.chunk.css",
+    "static/js/2.99d3eb1b.chunk.js",
+    "static/css/main.2e1a332f.chunk.css",
+    "static/js/main.a1de3dbe.chunk.js"
+  ]
+}

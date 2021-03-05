@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@400;900&family=Roboto:wght@400;900&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+html body {
+  background-color: rgba(14, 18, 66, 1);
+}
+
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.05em;
+}
+
+/*Link text in Navbar*/
+.App-navbar ul li {
+  list-style-type: none;
+}
+
+.App-navbar ul li a {
+  color: rgba(69, 182, 144, 1);
+  text-decoration: none;
+}
+
+
+#artist-card {
+  width: 230px; 
+  background-color: rgba(69, 182, 144, 0);
+  border: none;
+  color: white;
+}
+
+#artist-card:hover {
+  background-color: rgba(69, 182, 144, 1);
+}
+
+#artist-card a {
+  color: rgba(69, 182, 144, 1);
+  text-decoration: none;
+}
+
+.genres::-webkit-scrollbar {
+  display: none;
+}
+
+
+.landing {
+  font-family: 'Roboto';
+  overflow: hidden;
+}
+/* Background Image */
+#bg {
+  position: relative; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+  z-index: -1;
+}
+#bg img {
+  position: relative; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  min-width: 50%;
+  min-height: 50%;
+  opacity: 0.5;
+  z-index: -1;
+}
+
+/*Text in landing page*/
+.welcome {
+  position: absolute;
+  font-family: 'Exo';
+  font-weight: 900;
+  top: 50%;
+  left: 25%;
+  margin: auto;
+  text-shadow: 1px 1px 1px #000;
+}
+
+ /* artists-card style in artists list page*/
+
+
+.content-1 {
+  color: white;
+  font-family: 'Exo';
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -20px;
+  margin-left: -20px;
+  text-shadow: 1px 1px 1px #000;
+  text-align: left;
+}
+
+.earth {
+  -webkit-filter: drop-shadow(5px 5px 5px rgb(4, 6, 29) );
+  filter: drop-shadow(5px 5px 5px rgb(4, 6, 29));
+  margin-right: 30px; 
+  padding: 20px; 
+  margin-bottom: 50px;
+}
+
+/* number of genres, artists, and songs */
+.number {
+  color: rgba(69, 182, 144, 1);
+  font-family: 'Exo';
+  font-weight: bold;
+  position: absolute;
+  top: 100%;
+  left: 23%;
+  margin: auto;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.number h2 {
+  font-size: 70px;
+  font-weight: 900;
+}
+
+.number h4 {
+  font-size: 50px;
+  color: white;
+}
+
+.end-landing {
+  background: linear-gradient(#26a787, rgba(69, 182, 144, 1));
+  height: 800px;
+
+}
+
+
+.logo {
+  -webkit-filter: drop-shadow(3px 3px 3px rgb(30, 30, 34) );
+  filter: drop-shadow(3px 3px 3px rgb(30, 30, 34));
+  width: 380px;
+}
+
+.chart__bubble {
+  height: 150vh;
+  width: 90vh;
+  overflow: hidden;
+  width: auto;
+  font-weight:900;
+  font-size: large;
+}
+
+.chart__bubble .bubble {
+  fill: transparent;
+}
+
+/* .chart__bubble .leaf {
+  fill: #463993;
+} */
+
+/* .chart__bubble .bubble-chart-d3 {
+  align-self: center;
+  margin: auto;
+  padding: auto;
+  width: 100vw;
+  height: 100vh;
+} */
+
+.bubble-chart-container .chart__bubble .bubble-legend .legend-key {
+  height: 0em;
+  color: white;
+}
+
+.legend-key text {
+  color: white !important
+}
+
+.pagination {
+  font-size: medium;
+  color: white;
+  margin-top: 0.4em;
+}
+
+.pagination li a {
+  margin: 15px;
+  font-size: large;
+  font-family: 'Roboto';
+  z-index: 1;
+}
+
+.pagination li:hover {
+  background-color: white;
+  color: rgba(69, 182, 144, 1);
+  border-radius: 1em;
+}
+
+.pagination li a:focus {
+  outline: 0;
+  border: 0;
+}
+
+.action-button {
+  transition-property: margin-left 2s;
+  transition-duration: 2s;
+}
+
+.action-button .button:hover {
+  transform: scale(1.5); 
+}

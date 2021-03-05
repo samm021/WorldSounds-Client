@@ -1,0 +1,6617 @@
+[
+  {
+    "_id": "pop",
+    "value": 92,
+    "children": [
+      {
+        "_id": "dance pop",
+        "value": 92,
+        "colorValue": 92
+      },
+      {
+        "_id": "pop",
+        "value": 92,
+        "colorValue": 92
+      },
+      {
+        "_id": "pop rock",
+        "value": 77,
+        "colorValue": 77
+      },
+      {
+        "_id": "pop rap",
+        "value": 70,
+        "colorValue": 70
+      },
+      {
+        "_id": "teen pop",
+        "value": 64,
+        "colorValue": 64
+      },
+      {
+        "_id": "urban contemporary",
+        "value": 61,
+        "colorValue": 61
+      },
+      {
+        "_id": "indietronica",
+        "value": 56,
+        "colorValue": 56
+      },
+      {
+        "_id": "indie pop",
+        "value": 55,
+        "colorValue": 55
+      },
+      {
+        "_id": "latin pop",
+        "value": 55,
+        "colorValue": 55
+      },
+      {
+        "_id": "synthpop",
+        "value": 53,
+        "colorValue": 53
+      },
+      {
+        "_id": "folk-pop",
+        "value": 51,
+        "colorValue": 51
+      },
+      {
+        "_id": "europop",
+        "value": 50,
+        "colorValue": 50
+      },
+      {
+        "_id": "pop punk",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "chamber pop",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "shimmer pop",
+        "value": 43,
+        "colorValue": 43
+      },
+      {
+        "_id": "sertanejo",
+        "value": 42,
+        "colorValue": 42
+      },
+      {
+        "_id": "axe",
+        "value": 41,
+        "colorValue": 41
+      },
+      {
+        "_id": "pagode",
+        "value": 41,
+        "colorValue": 41
+      },
+      {
+        "_id": "spanish pop",
+        "value": 41,
+        "colorValue": 41
+      },
+      {
+        "_id": "brazilian pop music",
+        "value": 39,
+        "colorValue": 39
+      },
+      {
+        "_id": "chillwave",
+        "value": 38,
+        "colorValue": 38
+      },
+      {
+        "_id": "talent show",
+        "value": 38,
+        "colorValue": 38
+      },
+      {
+        "_id": "mpb",
+        "value": 37,
+        "colorValue": 37
+      },
+      {
+        "_id": "lo-fi",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "pop emo",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "samba",
+        "value": 33,
+        "colorValue": 33
+      },
+      {
+        "_id": "neo-psychedelic",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "noise pop",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "nu gaze",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "viral pop",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "dreamo",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "lilith",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "madchester",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "acoustic pop",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "brill building pop",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "britpop",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "canadian pop",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "dream pop",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "forro",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "italian pop",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "shiver pop",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "slow core",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "australian pop",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "icelandic pop",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "k-pop",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "merseybeat",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "operatic pop",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "bubblegum pop",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "chanson",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "k-hop",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "power pop",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "brazilian indie",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "choro",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "french pop",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "indian pop",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "new weird america",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "swedish pop",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "danish pop",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "desi",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "filmi",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "shoegaze",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "arab pop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "bhangra",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "doo-wop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "german pop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "jangle pop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "math pop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "punjabi",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "romanian pop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "spanish indie pop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "twee pop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "aggrotech",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "alternative pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "c86",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "dutch pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "freakbeat",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "futurepop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "garage pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "german indie",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "hands up",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "indonesian pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "italian indie pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "j-pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "mande pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "orgcore",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "persian pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "polish pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "qawwali",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "riot grrrl",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "shimmer psych",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "slovak pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "swedish indie pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "turkish pop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "ye ye",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "anime",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "c-pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "cantopop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "estonian pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "faroese pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "finnish pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "french indie pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "j-alt",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "j-idol",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "k-indie",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "makossa",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "malaysian pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "mandopop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "mbalax",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "more indie pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "norwegian pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "power-pop punk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "psych gaze",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "rai",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "russian pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "soukous",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "taiwanese pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "thai pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "vietnamese pop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "visual kei",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "adult album alternative",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "albanian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "alternative pop rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "anime score",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "athens indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "austropop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "benga",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "cantautor",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "chr",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic belgian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic chinese pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic danish pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic finnish pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic french pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic italian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic norwegian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic polish pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic swedish pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "coupe decale",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "croatian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dangdut",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "danish pop rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "danseband",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "e6fi",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ethiopian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "experimental psych",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "french folk pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gbvfi",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "german pop rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "girl group",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "grunge pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gujarati",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hauntology",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hip pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hot adult contemporary",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hungarian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hurban",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "indie christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "indie psych-pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "indie shoegaze",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "indonesian indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-poppunk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-poprock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-theme",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "japanese standards",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "kabarett",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "kannada",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "latvian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "levenslied",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "liedermacher",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "maghreb",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "malayalam",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "manele",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "metropopolis",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more acoustic pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more brazilian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more dance pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more german indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more neo-synthpop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more new wave",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more pop emo",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more pop punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more turkish pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "neo-synthpop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "pakistani pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "persian traditional",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "polish indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "polynesian pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "pop christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "pop house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "r-neg-b",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "sertanejo tradicional",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "sertanejo universitario",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "stomp pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swedish pop punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swedish soft pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tamil",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "telugu",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "trova",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "twee indie pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "underground pop rap",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "underground power pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "velha guarda",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "zouglou",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 90
+  },
+  {
+    "_id": "electro house",
+    "value": 62,
+    "children": [
+      {
+        "_id": "dance pop",
+        "value": 92,
+        "colorValue": 92
+      },
+      {
+        "_id": "electro house",
+        "value": 62,
+        "colorValue": 62
+      },
+      {
+        "_id": "house",
+        "value": 62,
+        "colorValue": 62
+      },
+      {
+        "_id": "indietronica",
+        "value": 56,
+        "colorValue": 56
+      },
+      {
+        "_id": "alternative dance",
+        "value": 51,
+        "colorValue": 51
+      },
+      {
+        "_id": "progressive house",
+        "value": 47,
+        "colorValue": 47
+      },
+      {
+        "_id": "new rave",
+        "value": 46,
+        "colorValue": 46
+      },
+      {
+        "_id": "dance-punk",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "disco house",
+        "value": 42,
+        "colorValue": 42
+      },
+      {
+        "_id": "electronic",
+        "value": 42,
+        "colorValue": 42
+      },
+      {
+        "_id": "electro",
+        "value": 39,
+        "colorValue": 39
+      },
+      {
+        "_id": "chillwave",
+        "value": 38,
+        "colorValue": 38
+      },
+      {
+        "_id": "talent show",
+        "value": 38,
+        "colorValue": 38
+      },
+      {
+        "_id": "progressive electro house",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "dance rock",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "big beat",
+        "value": 33,
+        "colorValue": 33
+      },
+      {
+        "_id": "dancehall",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "disco",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "progressive trance",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "trance",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "chill-out",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "electroclash",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "downtempo",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "trip hop",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "uplifting trance",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "eurodance",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "hi nrg",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "vocal house",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "breakbeat",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "turntablism",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "ambient",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "dub",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "dutch house",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "moombahton",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "new age",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "ninja",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "post-disco",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "bubblegum dance",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "glitch hop",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "microhouse",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "deep house",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "freestyle",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "hip house",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "intelligent dance music",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "minimal techno",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "tech house",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "tribal house",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "acid house",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "chicago house",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "dub techno",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "glitch",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "grave wave",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "nu skool breaks",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "wonky",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "balearic",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "electro-industrial",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "hardcore techno",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "illbient",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "j-dance",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "meditation",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "nu disco",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "psychedelic trance",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "aggrotech",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "deeper house",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "detroit techno",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "drill and bass",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "electro swing",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "hands up",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "italian disco",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "kirtan",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "progressive psytrance",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "schlager",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "techno",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "trance hop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "vaporwave",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "witch house",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "bouncy house",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "breakcore",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "broken beat",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "christian dance",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "deep soul house",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "digital hardcore",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "downtempo fusion",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "electro trash",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "happy hardcore",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "hard house",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "hard trance",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "more tech house",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "new beat",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "nu age",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "power electronics",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "shibuya-kei",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "warm drone",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "acid techno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "alternative new age",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ambient dub techno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "belly dance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "british dance band",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "bubble trance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "chill-out trance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "complextro",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "covertrance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dark ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dark electro-industrial",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dark psytrance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep disco",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep disco house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep euro house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep italo disco",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep psytrance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep ragga",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep tech house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "destroy techno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "discofox",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "doomcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "downtempo trip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "edm",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "electro dub",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "electro jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "electro latino",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "electroacoustic improvisation",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "electronica",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "environmental",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "filter house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "full on",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gabba",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ghettotech",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "goa trance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "guidance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hardcore breaks",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hauntology",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "japanoise",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "lounge house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "lowercase",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "miami bass",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "minimal dub",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "minimal melodic techno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more dance pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more deep house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more deeper house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more dub techno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more eurodance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more new wave",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more progressive house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more progressive trance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more uplifting trance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more vocal house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "new age piano",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nordic house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nu electro",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "organic ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "pop house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "post-disco soul",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "progressive uplifting trance",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ragga jungle",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "re:techno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "riddim",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "skweee",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "speedcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "uk dub",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "volksmusik",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 90
+  },
+  {
+    "_id": "rock",
+    "value": 63,
+    "children": [
+      {
+        "_id": "pop rock",
+        "value": 77,
+        "colorValue": 77
+      },
+      {
+        "_id": "rock",
+        "value": 63,
+        "colorValue": 63
+      },
+      {
+        "_id": "indie rock",
+        "value": 55,
+        "colorValue": 55
+      },
+      {
+        "_id": "mellow gold",
+        "value": 52,
+        "colorValue": 52
+      },
+      {
+        "_id": "post-grunge",
+        "value": 52,
+        "colorValue": 52
+      },
+      {
+        "_id": "album rock",
+        "value": 50,
+        "colorValue": 50
+      },
+      {
+        "_id": "funk rock",
+        "value": 50,
+        "colorValue": 50
+      },
+      {
+        "_id": "rap rock",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "soft rock",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "alternative rock",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "classic rock",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "grunge",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "hard rock",
+        "value": 43,
+        "colorValue": 43
+      },
+      {
+        "_id": "singer-songwriter",
+        "value": 43,
+        "colorValue": 43
+      },
+      {
+        "_id": "rock en espanol",
+        "value": 42,
+        "colorValue": 42
+      },
+      {
+        "_id": "folk rock",
+        "value": 41,
+        "colorValue": 41
+      },
+      {
+        "_id": "blues-rock",
+        "value": 40,
+        "colorValue": 40
+      },
+      {
+        "_id": "roots rock",
+        "value": 39,
+        "colorValue": 39
+      },
+      {
+        "_id": "classic funk rock",
+        "value": 38,
+        "colorValue": 38
+      },
+      {
+        "_id": "country rock",
+        "value": 37,
+        "colorValue": 37
+      },
+      {
+        "_id": "glam rock",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "modern country rock",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "new wave",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "piano rock",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "art rock",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "dance rock",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "garage rock",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "new romantic",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "psychedelic rock",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "industrial metal",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "mexican indie",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "neo-psychedelic",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "nu gaze",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "australian alternative rock",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "ccm",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "christian alternative rock",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "christian music",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "dreamo",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "lilith",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "madchester",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "progressive rock",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "rockabilly",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "argentine rock",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "christian rock",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "worship",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "british invasion",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "comic",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "jam band",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "southern rock",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "space rock",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "symphonic rock",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "post-hardcore",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "comedy",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "dub",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "industrial rock",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "lovers rock",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "merseybeat",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "experimental",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "experimental rock",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "industrial",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "post rock",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "reggae rock",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "vallenato",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "brazilian indie",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "celtic rock",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "chilean rock",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "k-rock",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "noise rock",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "nueva cancion",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "stoner rock",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "celtic",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "gothic rock",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "no wave",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "shoegaze",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "canterbury scene",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "dark wave",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "doo-wop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "ebm",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "electro-industrial",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "french rock",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "irish rock",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "kiwi rock",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "medieval rock",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "rock steady",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "scottish rock",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "suomi rock",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "african rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "aggrotech",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "andean",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "belgian rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "classic garage rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "freakbeat",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "israeli rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "kraut rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "math rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "neo-progressive",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "neue deutsche harte",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "outsider",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "peruvian rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "portuguese rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "psychobilly",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "venezuelan rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "welsh rock",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "atmospheric post rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "basque rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "chalga",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "dutch rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "fado",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "indian rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "j-rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "japanese psychedelic",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "k-indie",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "martial industrial",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "melodic hard rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "neo-industrial rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "new beat",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "psych gaze",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "russian rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "swiss rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "ukrainian rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "visual kei",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "yugoslav rock",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "adult album alternative",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "afrikaans",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "alternative pop rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "athens indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "australian indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "belgian indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "boston rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "british alternative rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "british indie rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "bulgarian rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "cantautor",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "celtic christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "chinese indie rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "christian christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic finnish rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic psychedelic rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic russian rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "colombian rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "corrosion",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "crack rock steady",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "crossover prog",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "czech rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "danish pop rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dark ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dark electro-industrial",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep space rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "e6fi",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "experimental psych",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "finnish indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gbvfi",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "geek rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "german pop rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "grunge pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hard glam",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hard stoner rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hauntology",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "heavy christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hot adult contemporary",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hungarian rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "indie shoegaze",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "instrumental post rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "italian progressive rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-poprock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "jangle rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "japanoise",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "mexican rock-and-roll",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "mizrahi",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "mod revival",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "modern southern rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more ccm",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more classic garage rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more comedy",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more indie rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more new wave",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more psychobilly",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more punk rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more soft rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "morna",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "neo-rockabilly",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "norwegian rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ostrock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "power blues-rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "psychedelic blues-rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "pub rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "puerto rican rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "rock catala",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "rock gaucho",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "rock noise",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "rock-and-roll",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "sevdah",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "sleaze rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "slovenian rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "spanish indie rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swedish indie rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional rock 'n roll",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional rockabilly",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "trash rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "trova",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "wrock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "zeuhl",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "zolo",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 92
+  },
+  {
+    "_id": "hip hop",
+    "value": 71,
+    "children": [
+      {
+        "_id": "hip hop",
+        "value": 71,
+        "colorValue": 71
+      },
+      {
+        "_id": "pop rap",
+        "value": 70,
+        "colorValue": 70
+      },
+      {
+        "_id": "alternative hip hop",
+        "value": 59,
+        "colorValue": 59
+      },
+      {
+        "_id": "rap",
+        "value": 51,
+        "colorValue": 51
+      },
+      {
+        "_id": "trap music",
+        "value": 51,
+        "colorValue": 51
+      },
+      {
+        "_id": "southern hip hop",
+        "value": 48,
+        "colorValue": 48
+      },
+      {
+        "_id": "dirty south rap",
+        "value": 46,
+        "colorValue": 46
+      },
+      {
+        "_id": "rap rock",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "crunk",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "gangster rap",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "rap metal",
+        "value": 40,
+        "colorValue": 40
+      },
+      {
+        "_id": "hardcore hip hop",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "juggalo",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "east coast hip hop",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "bass music",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "old school hip hop",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "brazilian hip hop",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "underground hip hop",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "grime",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "west coast rap",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "future garage",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "turntablism",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "dubstep",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "hyphy",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "uk garage",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "abstract hip hop",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "chicano rap",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "christian hip hop",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "trapstep",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "australian hip hop",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "filthstep",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "french hip hop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "german hip hop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "spanish hip hop",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "underground rap",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "dutch hip hop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "finnish hip hop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "footwork",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "italian hip hop",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "speed garage",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "j-rap",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "polish hip hop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "russian hip hop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "swedish hip hop",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "brostep",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "cinematic dubstep",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep flow",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep trap",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "detroit hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dirty texas rap",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "flick hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ghettotech",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "greek hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hungarian hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "jerk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "latin hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "minimal dubstep",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more east coast hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "outer hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "rap metalcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "slovak hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swiss hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "uk hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "underground latin hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "underground pop rap",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 71
+  },
+  {
+    "_id": "r&b",
+    "value": 61,
+    "children": [
+      {
+        "_id": "r&b",
+        "value": 61,
+        "colorValue": 61
+      },
+      {
+        "_id": "urban contemporary",
+        "value": 61,
+        "colorValue": 61
+      },
+      {
+        "_id": "funk rock",
+        "value": 50,
+        "colorValue": 50
+      },
+      {
+        "_id": "funk metal",
+        "value": 46,
+        "colorValue": 46
+      },
+      {
+        "_id": "neo soul",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "quiet storm",
+        "value": 39,
+        "colorValue": 39
+      },
+      {
+        "_id": "classic funk rock",
+        "value": 38,
+        "colorValue": 38
+      },
+      {
+        "_id": "funk",
+        "value": 37,
+        "colorValue": 37
+      },
+      {
+        "_id": "soul",
+        "value": 37,
+        "colorValue": 37
+      },
+      {
+        "_id": "motown",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "g funk",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "chicago soul",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "soul blues",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "southern soul",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "hi nrg",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "memphis soul",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "liquid funk",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "baile funk",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "drum and bass",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "hyphy",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "jazz funk",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "freestyle",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "deep funk",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "jump up",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "soul jazz",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "afrobeats",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "azonto",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "jungle",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "afrobeat",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "japanese r&b",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "neurofunk",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "northern soul",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "darkstep",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "deep soul house",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "drumfunk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "highlife",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "hiplife",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "j-idol",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "neurostep",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "alternative r&b",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "beach music",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic afrobeat",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "cumbia funk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep northern soul",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "funky breaks",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "japanese standards",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more motown",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more southern soul",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "neo soul-jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "post-disco soul",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ragga jungle",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "soul christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "soul flow",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional funk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional soul",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 61
+  },
+  {
+    "_id": "latin",
+    "value": 59,
+    "children": [
+      {
+        "_id": "latin",
+        "value": 59,
+        "colorValue": 59
+      },
+      {
+        "_id": "latin pop",
+        "value": 55,
+        "colorValue": 55
+      },
+      {
+        "_id": "banda",
+        "value": 48,
+        "colorValue": 48
+      },
+      {
+        "_id": "mariachi",
+        "value": 47,
+        "colorValue": 47
+      },
+      {
+        "_id": "ranchera",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "latin alternative",
+        "value": 40,
+        "colorValue": 40
+      },
+      {
+        "_id": "cumbia",
+        "value": 39,
+        "colorValue": 39
+      },
+      {
+        "_id": "bachata",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "bolero",
+        "value": 33,
+        "colorValue": 33
+      },
+      {
+        "_id": "bossa nova",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "mexican indie",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "merengue",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "salsa",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "boogaloo",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "latin christian",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "vallenato",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "latin metal",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "mambo",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "latin jazz",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "cuban rumba",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "flamenco",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "rumba",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "mexican son",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "cante flamenco",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "duranguense",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "electro latino",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "grupera",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hurban",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "latin christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "latin hip hop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "merengue urbano",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more regional mexican",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "norteno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nu-cumbia",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "regional mexican",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tropical",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "underground latin hip hop",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 59
+  },
+  {
+    "_id": "folk",
+    "value": 36,
+    "children": [
+      {
+        "_id": "mellow gold",
+        "value": 52,
+        "colorValue": 52
+      },
+      {
+        "_id": "folk-pop",
+        "value": 51,
+        "colorValue": 51
+      },
+      {
+        "_id": "indie folk",
+        "value": 44,
+        "colorValue": 44
+      },
+      {
+        "_id": "singer-songwriter",
+        "value": 43,
+        "colorValue": 43
+      },
+      {
+        "_id": "folk rock",
+        "value": 41,
+        "colorValue": 41
+      },
+      {
+        "_id": "stomp and holler",
+        "value": 40,
+        "colorValue": 40
+      },
+      {
+        "_id": "folk",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "lilith",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "freak folk",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "traditional folk",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "anti-folk",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "slow core",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "british folk",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "new weird america",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "celtic",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "folk punk",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "irish folk",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "arab folk",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "folk metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "old-time",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "chalga",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "czech folk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "neofolk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "nl folk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "turbo folk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "adult album alternative",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "armenian folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "breton folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ceilidh",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "celtic christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "contemporary folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ectofolk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "experimental psych",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "folk christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "folklore argentino",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "folkmusik",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "french folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "french folk pop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "geek folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hauntology",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "indie christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "italian folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "malagasy folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "neo-pagan",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nordic folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "pipe band",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "sevdah",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "spanish folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "stomp and flutter",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swiss folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional british folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional irish folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional scottish folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "turkish folk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "vintage country folk",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 36
+  },
+  {
+    "_id": "country",
+    "value": 47,
+    "children": [
+      {
+        "_id": "contemporary country",
+        "value": 49,
+        "colorValue": 49
+      },
+      {
+        "_id": "country",
+        "value": 47,
+        "colorValue": 47
+      },
+      {
+        "_id": "country rock",
+        "value": 37,
+        "colorValue": 37
+      },
+      {
+        "_id": "modern country rock",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "traditional country",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "country gospel",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "nashville sound",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "outlaw country",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "alternative country",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "texas country",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "country blues",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "western swing",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "bluegrass",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "progressive bluegrass",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "old-time",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "southern gospel",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "country christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more contemporary country",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "neo-traditional country",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "vintage country folk",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 47
+  },
+  {
+    "_id": "metal",
+    "value": 34,
+    "children": [
+      {
+        "_id": "funk metal",
+        "value": 46,
+        "colorValue": 46
+      },
+      {
+        "_id": "alternative metal",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "nu metal",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "rap metal",
+        "value": 40,
+        "colorValue": 40
+      },
+      {
+        "_id": "groove metal",
+        "value": 38,
+        "colorValue": 38
+      },
+      {
+        "_id": "metal",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "screamo",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "industrial metal",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "metalcore",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "dreamo",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "glam metal",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "melodic metalcore",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "speed metal",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "melodic death metal",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "post-hardcore",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "progressive metal",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "power metal",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "thrash metal",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "death metal",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "gothic metal",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "latin metal",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "nwobhm",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "stoner metal",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "death core",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "gothic symphonic metal",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "mathcore",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "neo classical metal",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "symphonic metal",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "christian hardcore",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "christian metal",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "crossover thrash",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "djent",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "doom metal",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "drone",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "post-metal",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "sludge metal",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "avantgarde metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "black metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "brutal death metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "deathgrind",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "folk metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "goregrind",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "grindcore",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "jazz metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "symphonic black metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "technical death metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "viking metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "atmospheric black metal",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "black death",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "brutal deathcore",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "chaotic hardcore",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "j-metal",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "neo-trad metal",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "nu age",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "pagan black metal",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "power violence",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "retro metal",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "thrash core",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "visual kei",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "warm drone",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "alternative metalcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "atmospheric post-metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "black sludge",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "chaotic black metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "charred death",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dark black metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "experimental psych",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "fallen angel",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "funeral doom",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gothic doom",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "grim death metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hard glam",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hauntology",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "heavy christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "lowercase",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "melodic power metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "melodic progressive metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "metal guitar",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more melodic death metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more melodic metalcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more symphonic black metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more thrash metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "musique concrete",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nwothm",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "rap metalcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "raw black metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "screamocore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "slam death metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "thrash-groove metal",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "unblack metal",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 34
+  },
+  {
+    "_id": "punk",
+    "value": 33,
+    "children": [
+      {
+        "_id": "dance-punk",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "pop punk",
+        "value": 45,
+        "colorValue": 45
+      },
+      {
+        "_id": "emo",
+        "value": 42,
+        "colorValue": 42
+      },
+      {
+        "_id": "new wave",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "pop emo",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "new romantic",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "screamo",
+        "value": 34,
+        "colorValue": 34
+      },
+      {
+        "_id": "protopunk",
+        "value": 33,
+        "colorValue": 33
+      },
+      {
+        "_id": "punk",
+        "value": 33,
+        "colorValue": 33
+      },
+      {
+        "_id": "skate punk",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "dreamo",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "brazilian punk",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "melodic hardcore",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "ska punk",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "post-hardcore",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "punk blues",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "uk post-punk",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "hardcore punk",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "post-punk",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "cowpunk",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "alternative emo",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "no wave",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "crossover thrash",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "folk punk",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "spanish punk",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "straight edge",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "christian punk",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "hardcore",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "horror punk",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "orgcore",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "outsider",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "psychobilly",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "riot grrrl",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "beatdown",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "crust punk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "german oi",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "german punk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "minimal wave",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "neue deutsche welle",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "oi",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "power violence",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "power-pop punk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "screamo punk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "steampunk",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "thrash core",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "vegan straight edge",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "c64",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "celtic punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dark cabaret",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "demoscene",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "emo punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "fast melodic punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "french punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gothic post-punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "italian punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-poppunk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more hardcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more new wave",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more pop emo",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more pop punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more psychobilly",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more punk rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "noise punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "polish indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "polish punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "punk christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "russian punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "screamocore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "slash punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "street punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swedish pop punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swedish punk",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "zolo",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 33
+  },
+  {
+    "_id": "blues",
+    "value": 25,
+    "children": [
+      {
+        "_id": "blues-rock",
+        "value": 40,
+        "colorValue": 40
+      },
+      {
+        "_id": "british blues",
+        "value": 33,
+        "colorValue": 33
+      },
+      {
+        "_id": "soul blues",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "jam band",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "jazz blues",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "modern blues",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "electric blues",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "punk blues",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "blues",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "country blues",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "acoustic blues",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "chicago blues",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "memphis blues",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "texas blues",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "delta blues",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "jump blues",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "piano blues",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "brass band",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "harmonica blues",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "louisiana blues",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "new orleans blues",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "traditional blues",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "boogie-woogie",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "piedmont blues",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "swamp blues",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "desert blues",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gospel blues",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "jug band",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "power blues-rock",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "psychedelic blues-rock",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 25
+  },
+  {
+    "_id": "reggae",
+    "value": 35,
+    "children": [
+      {
+        "_id": "reggaeton",
+        "value": 40,
+        "colorValue": 40
+      },
+      {
+        "_id": "roots reggae",
+        "value": 36,
+        "colorValue": 36
+      },
+      {
+        "_id": "reggae",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "dancehall",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "skate punk",
+        "value": 32,
+        "colorValue": 32
+      },
+      {
+        "_id": "ska punk",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "reggae fusion",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "dub",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "lovers rock",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "ska",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "reggae rock",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "rock steady",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "crack rock steady",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep ragga",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "euroska",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "polish reggae",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "riddim",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "skinhead reggae",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional reggae",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional ska",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "vintage reggae",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 35
+  },
+  {
+    "_id": "world",
+    "value": 24,
+    "children": [
+      {
+        "_id": "a cappella",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "brazilian gospel",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "gospel",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "soundtrack",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "tejano",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "canadian indie",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "new age",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "children's music",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "eurobeat",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "eurovision",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "fourth world",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "surf music",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "world",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "afrobeats",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "azonto",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "fingerstyle",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "meditation",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "nintendocore",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "opm",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "quebecois",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "soca",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "tango",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "video game music",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "afrobeat",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "balkan brass",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "bounce",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "cello",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "chiptune",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "coverchill",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "hard alternative",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "hardstyle",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "hawaiian",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "kirtan",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "kizomba",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "kompa",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "neo-singer-songwriter",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "orchestral",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "post-post-hardcore",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "psychill",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "sega",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "violin",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "world fusion",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "zouk",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "ambient idm",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "calypso",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "entehno",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "gothic americana",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "highlife",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "hiplife",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "kuduro",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "laiko",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "makossa",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "marching band",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "mbalax",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "native american",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "nepali",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "schranz",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "soukous",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "zim",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "zydeco",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "accordion",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "african percussion",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "alternative americana",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "alternative new age",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ambeat",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ambient fusion",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "austindie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "bangla",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "barbershop",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "bemani",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "benga",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "brass ensemble",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "breaks",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "brega",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "capoeira",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "chicago indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "chinese traditional",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "christmas product",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic afrobeat",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic eurovision",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic schlager",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classic soundtrack",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "commons",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "coupe decale",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "cubaton",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "cumbia villera",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dallas indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dansband",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep filthstep",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep liquid",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "denver indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "didgeridoo",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "doujin",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "dubstep product",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ecuadoria",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "enka",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "environmental",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "experimental dubstep",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "fake",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "finnish hardcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "french movie tunes",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "future ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gamecore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gamelan",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "german ccm",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "german show tunes",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "gothic alternative",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "greek indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hatecore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "heavy alternative",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "idol",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "indie singer-songwriter",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "j-core",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "japanese traditional",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "judaica",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "karneval",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "kc indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "kindermusik",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "klezmer",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "la indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "lds",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "leeds indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "lithumania",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "lo star",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "luk thung",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "mashup",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "michigan indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "military band",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "modern uplift",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "monastic",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more canadian indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more indie singer-songwriter",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more orchestral",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more soundtrack",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "morna",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "movie tunes",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "musica para ninos",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nasheed",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nerdcore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "new age piano",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "new tribe",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "northern irish indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "norwegian gospel",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "nursery",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "oratory",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "organic ambient",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "poetry",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "polka",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "portland indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "power noise",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "progressive alternative",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "reading",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "rebetiko",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "relaxative",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "remix",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "scorecore",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "seattle indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "skiffle",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "spanish invasion",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "spoken word",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "spytrack",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "stl indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "string quartet",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tekno",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "throat singing",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tibetan",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tico",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "traditional swing",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "triangle indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tribute",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "twin cities indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "vienna indie",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "vocaloid",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "wind ensemble",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "world chill",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "world christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "zouglou",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 24
+  },
+  {
+    "_id": "jazz",
+    "value": 27,
+    "children": [
+      {
+        "_id": "easy listening",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "lounge",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "new jack swing",
+        "value": 35,
+        "colorValue": 35
+      },
+      {
+        "_id": "chill-out",
+        "value": 31,
+        "colorValue": 31
+      },
+      {
+        "_id": "cabaret",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "downtempo",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "vocal jazz",
+        "value": 30,
+        "colorValue": 30
+      },
+      {
+        "_id": "jazz blues",
+        "value": 29,
+        "colorValue": 29
+      },
+      {
+        "_id": "acid jazz",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "turntablism",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "jazz",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "ninja",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "nu jazz",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "swing",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "bebop",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "contemporary post-bop",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "cool jazz",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "jazz funk",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "jazz fusion",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "smooth jazz",
+        "value": 26,
+        "colorValue": 26
+      },
+      {
+        "_id": "big band",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "hard bop",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "show tunes",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "latin jazz",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "soul jazz",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "stride",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "avant-garde jazz",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "illbient",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "new orleans jazz",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "brass band",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "contemporary jazz",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "free jazz",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "jazz metal",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "ragtime",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "broken beat",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "chill lounge",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "exotica",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "free improvisation",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "gypsy jazz",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "kwaito",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "shibuya-kei",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "south african jazz",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "tin pan alley",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "adult standards",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "danish jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "deep chill",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "electro jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "finnish jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hollywood",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "japanese jazztronica",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "jazz bass",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "jazz christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "jazz orchestra",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "jazz trio",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "lounge house",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more adult standards",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more free jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more jazz guitar",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more jazz piano",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more smooth jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more vocal jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "neo soul-jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "norwegian jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "polish jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "sunset lounge",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "swedish jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tzadik",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "vintage jazz",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "vintage swing",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 27
+  },
+  {
+    "_id": "classical",
+    "value": 28,
+    "children": [
+      {
+        "_id": "classical",
+        "value": 28,
+        "colorValue": 28
+      },
+      {
+        "_id": "operatic pop",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "romantic",
+        "value": 27,
+        "colorValue": 27
+      },
+      {
+        "_id": "opera",
+        "value": 25,
+        "colorValue": 25
+      },
+      {
+        "_id": "classical period",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "minimal",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "modern classical",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "neo classical metal",
+        "value": 24,
+        "colorValue": 24
+      },
+      {
+        "_id": "avant-garde",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "baroque",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "dark wave",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "ethereal wave",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "medieval rock",
+        "value": 23,
+        "colorValue": 23
+      },
+      {
+        "_id": "classical piano",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "indian classical",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "medieval",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "neoclassical",
+        "value": 22,
+        "colorValue": 22
+      },
+      {
+        "_id": "acousmatic",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "choral",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "classical guitar",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "early music",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "renaissance",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "serialism",
+        "value": 21,
+        "colorValue": 21
+      },
+      {
+        "_id": "carnatic",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classical christmas",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "classical organ",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "concert piano",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "contemporary classical",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "early music ensemble",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "ethereal gothic",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "harp",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "hindustani classical",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more baroque",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "more classical piano",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "musique concrete",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "turkish classical",
+        "value": 20,
+        "colorValue": 20
+      },
+      {
+        "_id": "tzadik",
+        "value": 20,
+        "colorValue": 20
+      }
+    ],
+    "colorValue": 28
+  }
+]
